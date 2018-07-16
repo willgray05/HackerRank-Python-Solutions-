@@ -1,4 +1,5 @@
 #Solution to Birthday Cake Problem
+#Will Gray
 #
 
 def compute(ar):
